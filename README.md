@@ -1,2 +1,2 @@
-# test_sandbox
-code test practices
+# Test sandbox
+code test practices, with Jest
